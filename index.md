@@ -1,9 +1,9 @@
 # Welcome to My Product Reviews
 
 ## Daily Recommendations
-* Best and Cheapest Snacks: [Click Here](https://amzn.to/42tF9vR)
-* Most Popular Dressy: [Click Here](https://amzn.to/4g99zH8)
-* Very Nice Shirts: [Click Here](https://amzn.to/3E6mdcx)
+* Best and Cheapest Snacks: <a href="https://amzn.to/42tF9vR">https://amzn.to/42tF9vR</a>
+* Most Popular Dressy: <a href="https://amzn.to/4g99zH8">https://amzn.to/4g99zH8</a>
+* Very Nice Shirts: <a href="https://amzn.to/3E6mdcx">https://amzn.to/3E6mdcx</a>
 
 ## Featured Reviews
 * Best Tech Gadgets 2024
