@@ -1,9 +1,9 @@
 # Welcome to My Product Reviews
 
 ## Daily Recommendations
-* Best and Cheapest Snacks: <a href="https://amzn.to/42tF9vR">https://amzn.to/42tF9vR</a>
-* Most Popular Dressy: <a href="https://amzn.to/4g99zH8">https://amzn.to/4g99zH8</a>
-* Very Nice Shirts: <a href="https://amzn.to/3E6mdcx">https://amzn.to/3E6mdcx</a>
+* CeraVe Baby Wash & Shampoo, Fragrance, Paraben, & Sulfate Free Shampoo: <a href="https://amzn.to/4hrx3YP">https://amzn.to/4hrx3YP</a>
+* Powermax 24-Count AAA Batteries: <a href="https://amzn.to/4hqP1uK">https://amzn.to/4hqP1uK</a>
+* UGREEN USB to Ethernet Adapter 2.5Gb, Ethernet to USB Adapter: <a href="https://amzn.to/3E4zwtX">https://amzn.to/3E4zwtX</a>
 
 ## Featured Reviews
 * Best Tech Gadgets 2024
